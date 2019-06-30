@@ -1,7 +1,7 @@
 {
   "name": "cyber-theme-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax theme with cyberpunk color palette for one-dark UI",
   "keywords": [
     "syntax",
