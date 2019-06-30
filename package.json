@@ -1,0 +1,17 @@
+{
+  "name": "cyber-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme with cyberpunk color palette for one-dark UI",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cyber",
+    "cyberpunk"
+  ],
+  "repository": "https://github.com/cyrusxyl/cyber-theme-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
